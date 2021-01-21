@@ -1,0 +1,2 @@
+rootProject.name = 'global-common-database'
+include ':global-parent'
