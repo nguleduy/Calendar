@@ -10,7 +10,7 @@ spring:
   rabbitmq:
     host: localhost
     port: 5672
-    virtual-host: calendar_host
+    virtual-host: calendar_vhost
     username: calendar
     password: calendar
   security:
